@@ -108,9 +108,3 @@ namespace asp.net_tutorial.Controllers
     }
 }
 
-//change 1
-//change 2
-//change 
-//change 4
-//change 5
-//change 6

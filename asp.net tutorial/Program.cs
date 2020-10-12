@@ -14,6 +14,8 @@ namespace asp.net_tutorial
         public static void Main(string[] args)
         {
             CreateHostBuilder(args).Build().Run();
+
+
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
